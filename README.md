@@ -28,10 +28,7 @@ SCKARS is not just a rental service; it's a fully integrated system that ensures
 
 ### Mobile Application(In Progress)
 
-![Mobile Application Home](/screenshots/mobile_home.png)
-*Mobile App Home Screen showing nearby available bikes*
-
-![Mobile Application Booking](/screenshots/mobile_booking.png)
+![Mobile Application](APPUI.jpg)
 *Mobile App Booking Screen*
 
 ### Web Application(In Progress)
