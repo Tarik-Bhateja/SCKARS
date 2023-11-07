@@ -3,7 +3,7 @@
 SCKARS (Smart Cycle Kit and Rental System) is a comprehensive solution designed to revolutionize the way bicycles are rented and managed. It combines the power of IoT with a user-centric application and robust management software, all working in harmony to create a seamless cycle rental experience.
 
 ## Overview
-
+![Scrap Bicycles in Campus](scrap.jpg)
 SCKARS is not just a rental service; it's a fully integrated system that ensures users can rent and return bicycles with the utmost convenience. For operators, SCKARS offers an unparalleled level of fleet management and monitoring capabilities. This is enabled by our network of smart bicycles, each equipped with IoT sensors, and controlled via our centralized management platform.
 
 ## Features
