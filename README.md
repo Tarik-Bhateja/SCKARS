@@ -26,18 +26,20 @@ SCKARS is not just a rental service; it's a fully integrated system that ensures
 
 ## UI Screenshots
 
-### Web Application
-
-![Web Application Home Page](/screenshots/web_home_page.png)
-*Home Page of the Web Application*
-
-![Web Application Rental Page](/screenshots/web_rental_page.png)
-*Rental Page showing available bikes*
-
-### Mobile Application
+### Mobile Application(In Progress)
 
 ![Mobile Application Home](/screenshots/mobile_home.png)
 *Mobile App Home Screen showing nearby available bikes*
 
 ![Mobile Application Booking](/screenshots/mobile_booking.png)
 *Mobile App Booking Screen*
+
+### Web Application(In Progress)
+
+![Web Application Home Page](UI1.png)
+*Login Page*
+
+![Web Application Rental Page](UI2.png)
+*Registration Page*
+
+
